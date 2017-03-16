@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <dimen name="big_bubble_curved_height">48dp</dimen>
+  <dimen name="bubble_bump_diameter">24dp</dimen>
+  <dimen name="small_bubble_diameter">12dp</dimen>
+  <dimen name="small_bubble_distance">6dp</dimen>
+
+  <dimen name="channel_fab_margin">16dp</dimen>
+  <dimen name="channel_grid_padding">8dp</dimen>
+  <dimen name="channel_item_lock_icon_size">22dp</dimen>
+  <dimen name="channel_item_padding">8dp</dimen>
+
+  <dimen name="new_channel_name_width">100dp</dimen>
+  <dimen name="new_channel_switch_height">48dp</dimen>
+  <dimen name="new_channel_hint_top_margin">80dp</dimen>
+  <dimen name="new_channel_name_top_margin">16dp</dimen>
+
+  <dimen name="chat_message_author_image">36sp</dimen>
+  <dimen name="chat_message_body_padding">6dp</dimen>
+  <dimen name="chat_message_body_margin">8dp</dimen>
+  <dimen name="chat_message_bubble_left_margin">16dp</dimen>
+  <dimen name="chat_message_bubble_corner_radius">16dp</dimen>
+  <dimen name="chat_message_bump_vertical_position">18dp</dimen>
+  <dimen name="chat_message_bump_diameter">12dp</dimen>
+  <dimen name="chat_message_small_bubble_diameter">6dp</dimen>
+  <dimen name="chat_new_message_margin">12dp</dimen>
+  <dimen name="chat_new_message_text_size">14sp</dimen>
+  <dimen name="chat_item_vertical_margin">8dp</dimen>
+  <dimen name="chat_item_horizontal_margin">16dp</dimen>
+
+</resources>
