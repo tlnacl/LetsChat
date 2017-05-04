@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
 import com.tlnacl.letschat.AndroidApplication;
-import com.tlnacl.letschat.view.Navigator;
+import com.tlnacl.letschat.Navigator;
 
 import javax.inject.Singleton;
 
